@@ -18,3 +18,18 @@ Puis le fichier client.py
 ```sh
 python3 client.py
 ```
+
+
+le client va devra ensuite écrire le nom de l'image qu'il souhaite récupéré
+
+```sh
+images/image.jpg
+```
+
+le client va devra ensuite écrire le nom de l'image qu'il souhaite récupéré
+
+```sh
+images/image.jpg
+```
+
+le serveur va récupéré la photo et l'enverra au client
