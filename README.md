@@ -26,6 +26,6 @@ le client va devra ensuite écrire le nom de l'image qu'il souhaite récupéré
 images/image.jpg
 ```
 
-#### Result finale
+## Result finale
 
 le serveur va récupéré la photo et l'enverra au client
